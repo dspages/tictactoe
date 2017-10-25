@@ -9,3 +9,7 @@ This is a simple command line interface tic tac toe game in Ruby.
 - Player can choose a hard computer opponent that plays optimally according to a minmax strategy. It will explore the entire game tree and select the best move assuming optimal play from both players.
 
 - Player can also choose an easy computer opponent that plays randomly.
+
+# Instructions
+
+Type 'ruby game' in the command line to play, then follow onscreen instructions.
